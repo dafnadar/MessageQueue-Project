@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29feb5e8-fd2d-41a2-b769-611d03e75bf5": {
+      "ProjectGuid": "29feb5e8-fd2d-41a2-b769-611d03e75bf5",
+      "DisplayName": "MessagesSystemUI",
+      "ColorIndex": 0
+    },
+    "ffa11e6f-21de-4d0d-82ca-1db39e718657": {
+      "ProjectGuid": "ffa11e6f-21de-4d0d-82ca-1db39e718657",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 1
+    },
+    "5637ecad-0e1c-41e4-b0b8-7ceaf6515b12": {
+      "ProjectGuid": "5637ecad-0e1c-41e4-b0b8-7ceaf6515b12",
+      "DisplayName": "Logic",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

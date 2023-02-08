@@ -1,0 +1,26 @@
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.exe.config
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.exe
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\Logic.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\DataStructures.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\Logic.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\MessageQueueProject.exe
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\MessageQueueProject.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.exe.config
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.exe
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\MessageQueueProject.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\Logic.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\DataStructures.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\Logic.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\MessageQueueProject.exe
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\MessageQueueProject\obj\Debug\MessageQueueProject.pdb

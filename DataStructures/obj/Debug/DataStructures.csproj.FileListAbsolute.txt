@@ -1,0 +1,12 @@
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\DataStructures\obj\Debug\DataStructures.pdb

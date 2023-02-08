@@ -1,0 +1,18 @@
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\Logic.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\Logic.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\DataStructures.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.dll
+C:\Users\Dafna\Desktop\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\Logic.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\Logic.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\DataStructures.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\bin\Debug\DataStructures.pdb
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.dll
+C:\Users\Dafna\OneDrive\שולחן העבודה\Sela College\Algoritm - Katia\Data Structures\Project\MessageQueueProject\Logic\obj\Debug\Logic.pdb
